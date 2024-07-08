@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="./style.css" hreflang="en-us" />
+  <title>Divisht Kori</title>
+</head>
+
+<body>
+  <header class="intro">
+    <h1 class="intro-hello">
+      Hello!
+      <span class="wave">👋</span>
+    </h1>
+
+    <h2 class="intro-tagline">
+      <div class="tag">
+        I'm <span class="name">Divisht Kori</span>
+        a Software Engineer
+        <a href="https://www.shapeai.tech/" target="_blank" class="company">@Saint Gobain.</a>
+        <span class="emoji"> </span>
+      </div>
+    </h2>
+
+    <h3 class="intro__contact">
+      <span>Get in touch </span>
+      <span class="left-hand pointer" style="font-size: 25px">&#128073
+      </span>
+      <span>
+        <a href="mailto:divisht.avion@gmail.com" target="_blank" class="highlight-link">divisht.avion@gmail.com</a>
+      </span>
+    </h3>
+  </header>
+  <main class="container">
+    <section class="background-section">
+      <div class="background-title">
+        <h2>BACKGROUND</h2>
+      </div>
+
+      <div class="section-content">
+        <p>
+          I'm currently a Software Engineer at
+          <a class="underline-link" href="https://www.shapeai.com/" target="_blank">Saint Gobain</a>,building frontend
+          API's on Mean Stack.I have done
+          <a class="underline-link" href="https://www.niit.com/" target="_blank">GNNIT</a>
+          in Software Engineering<a class="underline-link" href="https://www.niit.com/" target="_blank"> NIIT</a>
+          .I graduated from <a> NMIMS</a> after completion 3 awesome years
+          sudying IT.
+        </p>
+        <p>
+          <strong>When I'm not in front of a computer screen</strong>
+          , I probably playing some sports, or PS5, travelling and crossing
+          off another item on my bucket list.
+        </p>
+      </div>
+    </section>
+
+    <section class="skills-section">
+      <div class="background-title">
+        <h2 class="skill">SKILLS</h2>
+      </div>
+
+      <div class="langauges-section">
+        <div class="format">
+          <h4>LANGUAGES</h4>
+
+          <li>Javascript ES6</li>
+          <li>SQL (MYSQL,PostGre)</li>
+          <li>Docker, Kubernetes</li>
+          <li>Shell Scripting (Linux)</li>
+          <li>Java</li>
+          <li>Sequelize</li>
+        </div>
+
+        <div class="format">
+          <h4>FRAMEWORKS</h4>
+
+          <li>Angular</li>
+          <li>React</li>
+          <li>Spring Boot</li>
+          <li>Node JS</li>
+          </li>
+        </div>
+
+        <div class="format">
+          <h4>Tools</h4>
+
+          <li>GitHub</li>
+          <li>PostMan</li>
+          <li>Control-M</li>
+
+        </div>
+      </div>
+    </section>
+    <section class="expereince">
+      <div class="background-title">
+        <h2>EXPEREINCE</h2>
+      </div>
+
+      <div class="company_container">
+        <div class="present_root">
+          <div class="company_name">
+            <h4>Saint Gobain</h3>
+              <li>Software Engineer</li>
+          </div>
+          <div class="duration">
+            <li>June 2024 - Present</li>
+          </div>
+        </div>
+
+        <div class="before_root">
+          <div class="company_name">
+            <h4>Equity Data Science</h3>
+              <li>Software Engineer Intern</li>
+          </div>
+          <div class="duration">
+            <li>January 2013 - June 2013</li>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="resume_container">
+      <div class="resume">
+        <h3>View My Resume</h3>
+        <span>&#x2192</span>
+      </div>
+    </section>
+
+
+    <section class="project_names_container">
+      <div class="background-title">
+        <h2>PROJECTS</h2>
+      </div>
+      <div class="project_names">
+        <h4>Mapty</h4>
+        <span>&#x2192</span>
+      </div>    
+      <div class="project_intro">
+        <p>Hey There this is my first project details.</p>
+
+        <div class="code_repository">
+          <h3>Code Repository</h3>
+        </div>
+
+        <div class="tech_stack">
+          <button>Angular</button>
+          <button>Node</button>
+          <button>Java</button>
+          <button>Spring Boot</button>
+          <button>Spring Boot</button>
+          <button>Spring Boot</button>
+
+
+
+        </div>
+      </div>  
+    </section>
+
+    <div>
+
+    </div>
+
+    
+    
+
+
+    <!-- <section class="project_names_container">
+      <div class="background-title">
+        <h2>PROJECTS</h2>
+      </div>
+      <div class="project_names">
+        <h4>Hello </h4>
+        <span>&#x2192</span>
+      </div>
+      </section> -->
+
+    <!-- <section class="expereince">
+      <div class="background-title">
+        <h2>PROJECTS</h2>
+      </div>
+      <div class="project1">
+        <h3>Project 1</h3>
+        <span>&#x2192</span>
+      </div>
+      <div class="parascope">
+        <p>This is about project 1</p>
+      </div>
+      <div class="code_repository">
+        <h3>Code Repository</h3>
+        <button class="btn">Javascript</button>
+        <button class="btn">Leaflet Library</button>
+        <button class="btn">GitHub</button>
+
+      </div>
+   
+</section> -->
+
+  </main>
+</body>
+
+</html>
+
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: #444452;
+  background-color: #fff;
+  line-height: 1.5;
+  width: 100%;
+  font-family: Rubik;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.intro {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 70px 40px;
+  margin: 0 2px;
+}
+
+.intro-hello {
+  font-weight: 100%;
+  font-size: 29px;
+  letter-spacing: 2px;
+}
+
+.intro-tagline {
+  font-weight: 300;
+  font-size: 23px;
+  letter-spacing: 3px;
+  width: 900px;
+  /* border: 1px solid red; */
+}
+
+.intro-tagline a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #444452;
+  /* border: 1px solid red; */
+  width: 30;
+}
+
+.name {
+  font-weight: 500;
+}
+
+.intro__contact {
+  font-weight: 300;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+.tag {
+  position: relative;
+}
+/*.emoji {
+    display: inline-block;
+    vertical-align: text-top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}*/
+
+.intro-tagline .emoji {
+  background-image: url(Boy.png);
+  display: inline-block;
+  vertical-align: text-top;
+  background-size: 45px 45px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  /* border: 1px solid red; */
+}
+
+.intro__contact a {
+  text-decoration: none;
+  color: #444452;
+  font-weight: 400;
+}
+
+.intro__contact .highlight-link {
+  box-shadow: inset 0 -2px 0 #007bff;
+  padding: 5px 0;
+}
+
+.intro__contact .pointer {
+  font-size: 20px;
+}
+
+/*animated hand*/
+.wave {
+  animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s; /* Change to speed up or slow down */
+  animation-iteration-count: infinite; /* Never stop waving :) */
+  transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(14deg);
+  } /* The following five values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-8deg);
+  }
+  30% {
+    transform: rotate(14deg);
+  }
+  40% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(0deg);
+  } /* Reset for the last half to pause */
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.intro__contact a {
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+
+/*BACKGROUND*/
+
+.container {
+  width: 100%;
+  margin: 0 3em;
+}
+
+.background-title {
+  font-size: 0.6em;
+  color: #007bff;
+  width: 180px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+}
+
+.background-title h2 {
+  margin-left: 40px;
+}
+
+.section-content {
+  font-weight: 240;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-content p {
+  margin-bottom: 15px;
+  align-items: center;
+  font-size: 0.9em;
+  letter-spacing: 1.2px;
+  line-height: 1.5;
+  word-spacing: 2px;
+  width: 80%;
+}
+
+.background-section {
+  display: flex;
+  margin-left: 3em;
+}
+
+.section-content a {
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+
+/*Skills section*/
+
+.skills-section {
+  /* margin-top: 2em; */
+  display: flex;
+  /* flex-direction:column ; */
+  padding: 3em;
+  margin-top: 3em;
+}
+
+/*langauges Section*/
+
+.langauges-section {
+  display: flex;
+  justify-content: space-evenly;
+  /* flex-direction: ; */
+  /* margin-bottom: 2em; */
+  /* border: 1px solid red; */
+  width: 900px;
+}
+
+.format h4 {
+  font-size: 0.9em;
+  letter-spacing: 2px;
+  line-height: 1.7;
+}
+
+.langauges-section li {
+  line-height: 25px;
+  list-style: none;
+  font-weight: 100;
+  letter-spacing: 0.4px;
+  word-spacing: 1px;
+  font-size: 13px;
+}
+
+
+
+.company_container {
+  width: 100%;
+  /* border:1px solid blue; */
+}
+.present_root {
+  /* border:1px solid red; */
+  width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.before_root{
+  /* display: flex;
+  align-items: center;
+  justify-content: space-around; */
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  /* border: 1px solid red;   */
+  width: 900px;
+  justify-content: space-around;
+  margin-top: 19px;
+  padding-left: 31px;
+}
+
+.duration li {
+  line-height: 10px;
+  list-style: none;
+  font-weight: 50;
+  letter-spacing: 0.5px;
+  word-spacing: 2px;
+  font-size: 13px;
+}
+
+.company_name h4 {
+  font-size: 0.9em;
+  letter-spacing: 2px;
+  line-height: 1.7;
+  font-weight: 600;
+}
+.company_name li {
+  line-height: 25px;
+  list-style: none;
+  font-weight: 100;
+  letter-spacing: 0.6px;
+  word-spacing: 1px;
+  font-size: 13px;
+}
+
+.resume {
+  display: flex;
+  align-items: center;
+}
+
+
+.resume_container{
+  display: flex;
+  width: 800px;
+  justify-content: space-around;
+  margin: 65px 69px;
+
+}
+.resume span{
+  font-size: 2em;
+  color: #007bff;
+  padding-left: 15px;
+
+}
+
+.expereince {
+  display: flex;
+  margin-left: 2.7em;
+}
+
+
+.project_names_container{
+  display: flex;
+  /* border: 1px solid red; */
+  /* margin: 65px 67px; */
+  margin-left: 2.7em;
+  margin-top: 8em;
+  flex-direction: column;
+  
+}
+.project_names{
+width: 200px;
+/* border: 1px solid black; */
+display: flex;
+margin: 0 9em;
+gap:15px;
+margin-left: 23em;
+align-items: center;
+}
+
+
+.resume h3{ 
+  /* border: 1px solid red; */
+  line-height: 25px;
+  font-weight: 450;
+  word-spacing: 1px;
+}
+
+.project_names_container{
+
+}
+
+.project_names h4{
+  /* font-size: 2px;
+  letter-spacing: 0.8px;
+  line-height: 1.3;
+  font-weight: 500; */
+
+  font-size: 0.9em;
+  letter-spacing: 1px;
+  line-height: 1.7;
+  font-weight: 600;
+  
+}
+
+.project_names span{
+  color: #007bff;
+  font-size: 1.5em;
+  margin-bottom: 2px;
+ 
+}
+
+
+
+.project_intro {
+  /* border: 1px solid red; */
+  margin-left: 22.9em;
+}
+
+.project_intro p{
+  line-height: 25px;
+  font-weight: 350;
+  letter-spacing: 0.3px;
+  word-spacing: 1px;
+  font-size: 14px;
+}
+
+
+.code_repository h3{
+
+  line-height:4em;
+  letter-spacing:1px;
+  font-size: 15px;
+  /* word-spacing:1px; */
+  font-weight: 500;
+}
+
+.tech_stack {
+  display: flex;
+  gap: 13px;
+}
+
+.tech_stack button{
+  border: none;
+  padding: 2px 15px;
+  font-size: 10px;
+  border-radius: 2.5px;
+  color: #007bff;
+  background-color: transparent;
+  border: 1px solid #007bff;
+  height: 20px;
+  word-spacing: 1px;
+  letter-spacing: 0.9px;
+
+
+}
+
+
+
+
+
+
+/*For table 768 px*/
+@media only screen and (min-width: 768px) {
+  .intro {
+    padding: 80px;
+  }
+
+  .intro-hello {
+    font-size: 30px;
+  }
+
+  .intro-tagline {
+    font-size: 30px;
+    width: 100%;
+  }
+
+  .intro-tagline .emoji {
+    top: 49px;
+  }
+
+  .intro__contact {
+    font-size: 17px;
+    /* font-display: \1F449    ;*/
+  }
+
+  .intro-tagline .emoji {
+    width: 50px;
+    height: 50px;
+    top: 38px;
+  }
+}
+
+@media only screen and (min-width: 1020px) {
+  .intro-hello {
+    font-weight: 149;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    margin-top: 50px;
+  }
+
+  .tag {
+    width: 69%;
+    font-size: 1.2em;
+    font-weight: 127;
+    /*transform: scale(1.2, 1.3);*/
+  }
+
+  .intro-tagline .company {
+    font-weight: 700;
+  }
+
+  .emoji {
+    margin: 10px 0;
+    padding: 30px 0;
+  }
+
+  .intro__contact {
+    font-weight: 200;
+    font-size: 1.1em;
+    letter-spacing: 2px;
+  }
+
+  .intro {
+    padding-top: 1px;
+
+    margin-bottom: 190px 0;
+    width: 90%;
+    margin-left: 2em;
+  }
+
+  .intro__contact .highlight-link {
+    font-weight: 200;
+  }
+
+  .section-content {
+    max-width: 930px;
+    margin: 0 auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+
