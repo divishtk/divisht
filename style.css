@@ -449,7 +449,7 @@ align-items: center;
 }
 
 
-.handles h3{
+.handles h3 a{
 
   font-size: 14px;
   font-weight: 500;
@@ -457,8 +457,8 @@ align-items: center;
   height: 20px;
   word-spacing: 1px;
   letter-spacing: 0.9px;
+  text-decoration: none;
 }
-
 
 
 
